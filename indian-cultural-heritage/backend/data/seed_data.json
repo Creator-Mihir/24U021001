@@ -1,0 +1,376 @@
+[
+    {
+        "name": "Garba",
+        "category": "Performing Arts",
+        "subcategory": "Folk Dance",
+        "heritage_type": "intangible",
+        "location": {
+            "country": "India",
+            "state": "Gujarat",
+            "district": null,
+            "city": null,
+            "region": "Western India"
+        },
+        "period": {
+            "era": "Traditional",
+            "origin": "Gujarat",
+            "time_period": null
+        },
+        "description": "Garba is a traditional folk dance of Gujarat performed during festive occasions, especially Navratri.",
+        "history": "Garba has deep roots in Gujarati cultural and devotional traditions.",
+        "cultural_significance": "Garba represents community participation, celebration and devotion.",
+        "traditions": [
+            "Navratri celebration",
+            "Community dancing"
+        ],
+        "rituals": [],
+        "communities": [
+            "Gujarati communities"
+        ],
+        "languages": [
+            "Gujarati"
+        ],
+        "visual_context": {
+            "attire": [
+                "Chaniya choli",
+                "Kediyu"
+            ],
+            "jewellery": [
+                "Traditional Gujarati jewellery"
+            ],
+            "objects": [
+                "Diyas"
+            ],
+            "architecture": [],
+            "environment": [
+                "Festival ground"
+            ],
+            "colors_patterns": [
+                "Traditional Gujarati patterns"
+            ],
+            "activities": [
+                "Circular group dancing"
+            ]
+        },
+        "audio_context": {
+            "music": [
+                "Gujarati folk music"
+            ],
+            "instruments": [
+                "Dhol"
+            ]
+        },
+        "related_heritage": [
+            "Dandiya Raas",
+            "Navratri"
+        ],
+        "keywords": [
+            "garba",
+            "gujarat",
+            "folk dance",
+            "navratri"
+        ],
+        "generation_context": "A traditional Gujarati Garba celebration during Navratri, featuring dancers in colorful regional attire and traditional jewellery, circular group dancing, diyas and festive decorations.",
+        "sources": [],
+        "status": "approved"
+    },
+    {
+        "name": "Bharatanatyam",
+        "category": "Performing Arts",
+        "subcategory": "Classical Dance",
+        "heritage_type": "intangible",
+        "location": {
+            "country": "India",
+            "state": "Tamil Nadu",
+            "district": null,
+            "city": null,
+            "region": "South India"
+        },
+        "period": {
+            "era": "Traditional",
+            "origin": "Tamil Nadu",
+            "time_period": null
+        },
+        "description": "Bharatanatyam is a major Indian classical dance tradition originating in Tamil Nadu.",
+        "history": "Bharatanatyam developed through temple and performance traditions of South India.",
+        "cultural_significance": "The dance combines rhythm, expression, storytelling and devotional themes.",
+        "traditions": [
+            "Classical dance performance",
+            "Temple traditions"
+        ],
+        "rituals": [],
+        "communities": [
+            "Tamil cultural communities"
+        ],
+        "languages": [
+            "Tamil"
+        ],
+        "visual_context": {
+            "attire": [
+                "Traditional Bharatanatyam costume"
+            ],
+            "jewellery": [
+                "Temple jewellery"
+            ],
+            "objects": [],
+            "architecture": [
+                "South Indian temple"
+            ],
+            "environment": [
+                "Traditional dance stage"
+            ],
+            "colors_patterns": [
+                "Traditional silk patterns"
+            ],
+            "activities": [
+                "Classical dance performance"
+            ]
+        },
+        "audio_context": {
+            "music": [
+                "Carnatic music"
+            ],
+            "instruments": [
+                "Mridangam",
+                "Veena"
+            ]
+        },
+        "related_heritage": [
+            "Carnatic Music",
+            "Tamil Temple Culture"
+        ],
+        "keywords": [
+            "bharatanatyam",
+            "tamil nadu",
+            "classical dance",
+            "indian dance"
+        ],
+        "generation_context": "A traditional Bharatanatyam performance featuring a classical Indian dancer wearing a traditional silk costume and temple jewellery, performing expressive mudras on a decorated stage inspired by South Indian temple architecture.",
+        "sources": [],
+        "status": "approved"
+    },
+    {
+        "name": "Madhubani Painting",
+        "category": "Arts & Crafts",
+        "subcategory": "Traditional Painting",
+        "heritage_type": "intangible",
+        "location": {
+            "country": "India",
+            "state": "Bihar",
+            "district": "Madhubani",
+            "city": null,
+            "region": "Eastern India"
+        },
+        "period": {
+            "era": "Traditional",
+            "origin": "Bihar",
+            "time_period": null
+        },
+        "description": "Madhubani painting is a traditional painting style associated with the Mithila region of Bihar.",
+        "history": "The art form has traditionally been practiced by communities in the Mithila region.",
+        "cultural_significance": "Madhubani paintings express cultural traditions, mythology, nature and social life.",
+        "traditions": [
+            "Traditional wall painting",
+            "Festival decoration"
+        ],
+        "rituals": [],
+        "communities": [
+            "Mithila communities"
+        ],
+        "languages": [
+            "Maithili"
+        ],
+        "visual_context": {
+            "attire": [],
+            "jewellery": [],
+            "objects": [
+                "Natural pigments",
+                "Traditional painting tools"
+            ],
+            "architecture": [
+                "Traditional Mithila homes"
+            ],
+            "environment": [
+                "Village setting"
+            ],
+            "colors_patterns": [
+                "Geometric patterns",
+                "Floral motifs",
+                "Mythological figures"
+            ],
+            "activities": [
+                "Traditional painting"
+            ]
+        },
+        "audio_context": {
+            "music": [],
+            "instruments": []
+        },
+        "related_heritage": [
+            "Mithila Culture",
+            "Indian Folk Art"
+        ],
+        "keywords": [
+            "madhubani",
+            "mithila",
+            "bihar",
+            "folk painting"
+        ],
+        "generation_context": "A traditional Madhubani painting scene from the Mithila region, featuring intricate geometric patterns, floral motifs, mythological figures and traditional village surroundings.",
+        "sources": [],
+        "status": "approved"
+    },
+    {
+        "name": "Diwali",
+        "category": "Festivals & Traditions",
+        "subcategory": "Religious Festivals",
+        "heritage_type": "intangible",
+        "location": {
+            "country": "India",
+            "state": null,
+            "district": null,
+            "city": null,
+            "region": "Pan India"
+        },
+        "period": {
+            "era": "Traditional",
+            "origin": "India",
+            "time_period": null
+        },
+        "description": "Diwali is a major Indian festival associated with lights, celebration, family gatherings and religious traditions.",
+        "history": "Diwali has been celebrated through diverse regional traditions across India for centuries.",
+        "cultural_significance": "The festival symbolizes themes such as light, renewal and prosperity in several Indian traditions.",
+        "traditions": [
+            "Lighting diyas",
+            "Rangoli decoration",
+            "Family gatherings",
+            "Lakshmi Puja"
+        ],
+        "rituals": [
+            "Lighting lamps",
+            "Puja"
+        ],
+        "communities": [
+            "Indian communities"
+        ],
+        "languages": [],
+        "visual_context": {
+            "attire": [
+                "Traditional Indian clothing"
+            ],
+            "jewellery": [
+                "Traditional jewellery"
+            ],
+            "objects": [
+                "Diyas",
+                "Rangoli",
+                "Decorative lamps"
+            ],
+            "architecture": [
+                "Decorated Indian homes"
+            ],
+            "environment": [
+                "Festive household setting"
+            ],
+            "colors_patterns": [
+                "Rangoli patterns",
+                "Festive decorations"
+            ],
+            "activities": [
+                "Lighting diyas",
+                "Making rangoli",
+                "Family celebration"
+            ]
+        },
+        "audio_context": {
+            "music": [
+                "Traditional festive music"
+            ],
+            "instruments": []
+        },
+        "related_heritage": [
+            "Lakshmi Puja",
+            "Rangoli",
+            "Indian Festival Traditions"
+        ],
+        "keywords": [
+            "diwali",
+            "deepavali",
+            "festival of lights",
+            "indian festival"
+        ],
+        "generation_context": "A traditional Indian Diwali celebration with families wearing traditional clothing, decorated homes, glowing diyas, colorful rangoli, festive decorations and a warm celebratory atmosphere.",
+        "sources": [],
+        "status": "approved"
+    },
+    {
+        "name": "Ajanta Caves",
+        "category": "Archaeological Heritage",
+        "subcategory": "Rock-Cut Heritage",
+        "heritage_type": "tangible",
+        "location": {
+            "country": "India",
+            "state": "Maharashtra",
+            "district": "Aurangabad",
+            "city": null,
+            "region": "Western India"
+        },
+        "period": {
+            "era": "Ancient",
+            "origin": "Maharashtra",
+            "time_period": "Ancient India"
+        },
+        "description": "The Ajanta Caves are a historic complex of rock-cut Buddhist caves known for their architecture, sculptures and paintings.",
+        "history": "The caves were developed over different periods of ancient Indian history and contain significant Buddhist artistic traditions.",
+        "cultural_significance": "Ajanta represents an important part of India's ancient Buddhist artistic and architectural heritage.",
+        "traditions": [
+            "Buddhist artistic traditions"
+        ],
+        "rituals": [],
+        "communities": [
+            "Buddhist communities"
+        ],
+        "languages": [],
+        "visual_context": {
+            "attire": [],
+            "jewellery": [],
+            "objects": [
+                "Ancient sculptures"
+            ],
+            "architecture": [
+                "Rock-cut caves",
+                "Buddhist monasteries",
+                "Chaitya halls"
+            ],
+            "environment": [
+                "Rocky landscape",
+                "Forest surroundings"
+            ],
+            "colors_patterns": [
+                "Ancient mural paintings"
+            ],
+            "activities": [
+                "Cave exploration",
+                "Historical study"
+            ]
+        },
+        "audio_context": {
+            "music": [],
+            "instruments": []
+        },
+        "related_heritage": [
+            "Buddhist Heritage",
+            "Ellora Caves",
+            "Ancient Indian Art"
+        ],
+        "keywords": [
+            "ajanta caves",
+            "maharashtra",
+            "buddhist heritage",
+            "rock cut architecture"
+        ],
+        "generation_context": "A historically inspired view of the Ajanta Caves in Maharashtra, showing ancient rock-cut Buddhist architecture, cave entrances, sculptures, murals and a natural rocky forest landscape.",
+        "sources": [],
+        "status": "approved"
+    }
+]

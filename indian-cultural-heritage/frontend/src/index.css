@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+:root {
+    font-family: "Inter", sans-serif;
+    color: #332a24;
+    background: #f8f1e5;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    background: #f8f1e5;
+}
+
+button {
+    font-family: inherit;
+}
+
+.heading-font {
+    font-family: "Cormorant Garamond", serif;
+}
